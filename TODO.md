@@ -1,0 +1,10 @@
+- Set alert mp3 by channel name
+- Write channel -> mp3 map to shared, org level config
+- Select input (built in mic vs headset)
+- Non-MP3 audio
+  - Use TTS, say dynamic things: "You have a call from Adam"
+- Add other types of non-audio notification
+  - Notification API
+  - Blinking <title>
+- Can I change audio mid-call?
+- What happens in non-Chrome browsers?
